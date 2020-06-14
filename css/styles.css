@@ -1,0 +1,85 @@
+/* Feel free to remove these styles or customise in your own stylesheet 👍 */
+
+body{
+    font-family: 'Karla', sans-serif;
+}
+h1{
+    color: hsl(179, 62%, 43%);
+    font-weight: 700;
+}
+
+#top-h3{
+    color: hsl(71, 73%, 54%);
+    font-weight: 700;
+    margin: 2rem 0 1rem ;
+}
+.top-container{
+    padding: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.btm-left-container h3, .btm-right-container h3{
+    color: white;
+    font-weight: bolder;
+    margin: 1rem 0 2rem;
+
+}
+
+.intro-paragraph{
+    color: hsl(218, 22%, 67%);
+}
+.btm-left-container{
+    background-color: hsl(179, 62%, 43%);
+    color: hsl(204, 43%, 93%);
+    padding: 3rem ;
+    text-align: left;
+    
+}
+.btm-right-container{
+background-color: hsl(179, 51%, 55%);
+color: hsl(205, 46%, 89%);
+padding: 3rem 3rem 3rem;
+text-align: left;
+}
+.btm-right-container p{
+    font-size: 1rem;
+    line-height: 0.5;
+
+}
+.row{
+    padding:0 4rem;
+}
+#price{
+    display: inline-block;
+    font-size: 2rem;
+    color: white;
+    font-weight: bold;
+    width: 4rem;
+    position: relative;
+    top: 5px;
+
+
+}
+#duration{
+    font-size: .8rem;
+    font-weight: 200;
+    color: hsl(205, 56%, 89%);
+    align-items: flex-start;
+    
+}
+.price-paragraph{
+    margin-top: -3%;
+}
+.price-paragraph-2{ margin-top: -1%;}
+
+.bnt-sign-up{
+    margin: 2rem 0 0px;
+    background-color: hsl(71, 73%, 54%);
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    width:50%;
+}
+.attribution { 
+    padding:30px;
+    font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
