@@ -1,2 +1,2 @@
-# single-price-grid-component-master
+# single-price-grid-component---------
 Frontend Mentor Practice Project-2
